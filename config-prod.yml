@@ -1,4 +1,6 @@
 server:
   port: 2004
+config:
+  info: hahahaha
 
 
