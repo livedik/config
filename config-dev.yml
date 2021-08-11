@@ -1,5 +1,3 @@
-server:
-  port: 3333
 config:
   info: dev version -2
 
